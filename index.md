@@ -1,7 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Index Page Title"
 ---
 
-I'm glad you are here. I plan to talk about ...
-
-Type the content you want on your homepage.
+Index page content.
